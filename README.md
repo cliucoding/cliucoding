@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/cliucoding/cliucoding/output/github-contribution-grid-snake.svg)
